@@ -1,2 +1,0 @@
-AWS_ACCESS_KEY = ""
-AAWS_SECRET_KEY = "" 
